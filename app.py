@@ -71,6 +71,7 @@ if submit:
 st.markdown("""
 ---
 💡 **Catatan**: 
+- Website Ini Hanya Bisa Digunakan Oleh Tenaga Medis
 - Model prediksi ini HANYA UNTUK diagnosa awal. Silakan konsultasikan hasil ini dengan dokter untuk kepastian lebih lanjut.  
 - Berikut adalah panduan untuk mendapatkan data yang perlu diinput:  
     - **Jumlah Kehamilan (Pregnancies):** Masukkan jumlah total kehamilan yang pernah dialami pasien.  
